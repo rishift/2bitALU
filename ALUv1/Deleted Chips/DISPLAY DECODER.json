@@ -1,0 +1,20 @@
+{
+  "Name": "DISPLAY DECODER",
+  "Colour": "#570A3C",
+  "InputPins": [],
+  "OutputPins": [],
+  "SubChips": [
+    {
+      "Name": "7-SEGMENT DISPLAY",
+      "ID": 823221602,
+      "Points": [
+        {
+          "X": 7.472223,
+          "Y": 0.305555463
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": []
+}

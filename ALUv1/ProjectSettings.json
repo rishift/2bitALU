@@ -1,0 +1,44 @@
+{
+  "ProjectName": "ALUv1",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2024-03-30T01:29:19.4013091+05:30",
+  "AllCreatedChips": [
+    "OR",
+    "XOR",
+    "2-1 MUX",
+    "4-1 MUX",
+    "LU",
+    "H ADDER",
+    "MULTIPLIER",
+    "ADDER",
+    "ADD-SUB",
+    "COMPARATOR",
+    "AU",
+    "ALU",
+    "DISPLAY DECODER",
+    "ALU-I"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "OR",
+    "XOR",
+    "2-1 MUX",
+    "4-1 MUX",
+    "LU",
+    "H ADDER",
+    "MULTIPLIER",
+    "ADDER",
+    "ADD-SUB",
+    "COMPARATOR",
+    "AU",
+    "ALU",
+    "DISPLAY DECODER",
+    "ALU-I"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 0
+  }
+}
